@@ -12,7 +12,7 @@ This script fetches equity stock indices data from the NSE website using Seleniu
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/nse-data-scraper.git
-cd nse-data-scraper
+cd data_scraper
 ```
 
 ### 2. Install dependencies
